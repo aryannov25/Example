@@ -218,3 +218,7 @@ small {
 .whitesmokeClass {
     background-color: whitesmoke!IMPORTANT;
   }
+
+.h1{
+    background-color: whitesmoke;
+}  
