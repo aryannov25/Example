@@ -214,3 +214,7 @@ small {
 .h:hover{
     background-color: whitesmoke;
 }
+
+.whitesmokeClass {
+    background-color: whitesmoke!IMPORTANT;
+  }
